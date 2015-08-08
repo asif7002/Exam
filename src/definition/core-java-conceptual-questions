@@ -2,31 +2,109 @@ Please answer the below core-java Questions:
 
 
 What jdk contains or composed of and define each components?
+
+Ans:-
+Development tools:-Tools & utilities that will develop, debug, execute and document programs written in programming language.
+Runtime environment:-It's an implementation of java runtime environment for use by the JDK. The JRE includes a java virtual machine, class libraries and other files that supports the execution program.
+Additional libraries:- additional class libraries and support files required by the development tools.
+Java DB:- Java DB oracle's distributions of Apache derby relational database 
+C header files:-Header files that support native-code Programming using the java native interface,the JVM tool interface and other functionality of the java platform.
+Score code:-
+Java FX tools:-
+
+
 What is IDE?
+ Ans:- An integrated development environment (IDE) is a programming environment that has been packaged as an application program,typically consisting of a code editor,a compiler,a debugger, and a graphical user interface builder.
+
 What are the IDEs available in the market to support java?
+
+ Ans:- 
+       Eclipse
+       IntelliJ
+       NetBeans 
+
 Explain the entire java life cycle.
+Ans:-   Code -(.java source file)-> Compile -(.class bite code file)-> Interpret -(0.1.2)
+
 what is class?
+Ans:-  A class is a blueprint from which individual objects are created
+
 What is object?
+Ans:  an object is a programming nature that have certain basic characteristics. 
+
 What is the entry point of an application?
+Ans:  In computer programming, an entry point is where control enters a program or piece of code and execution begins.
+
 Why main is static?
+Ans: The main is static because otherwise there would be ambiguity. 
+
 What is the difference between an Interface and Abstract class?
+Ans: The main difference is methods of a java interface are implicitly abstract and cannot have implementations.A java abstract class can have instance methods that implements a default behavior.
+
+
 Can you make an Object from an Interface and Abstract class ? if not how do you use it ?
+Ans: 
+
 what is Access Specifier?
+Ans: Access Specifier is a key word in object oriented languages that set the accessibility of classes, methods, and other members.
+
+
 What is OOP ? Define each feature of java OOP.
+Ans:  OOP is a short form of Object oriented programming. Java OOP features are 
+1) Abstraction
+2) Inheritance
+3) Encapsulation
+4) Polymorphism
+
+
 What is API? Name list of API that you have used so far.
+Ans: API is application Programming interface. List of API's are _> Array, scanner, linkedList, Scanner,Queue,stack.
+
+
 Does java support multiple inheritance?
+Is a relation ship -No. Has a relationship -Yes
+
 What is method overloading and when it happens?
+
+
+
 What is method overriding and when it happens?
+
+
 Explain exceptions in java and how to handle it.
+
+
 What is static keyword in java? How it has been used in variables and methods ?
+
+
 What is final and how it has been used variables and methods?
+
+
 What is final, finally and finalize?
+
+
 What is a constructor ?
+
+
 What is "this" keyword in java ?
+
+
 What is "super" keyword in java?
+
+
 What is JVM stand for ?
+Ans: Java Virtual Machine.
+
 What version of java are you using?
+
+
 What is JAR stand for ?
+Ans: Java Archive.
+
 What is compile time and run time?
+Ans: 
+
 What is heap?
+Ans: Heap is the amount of memory allocated to applications running in the JVM.
+
 How java manage it's memory?

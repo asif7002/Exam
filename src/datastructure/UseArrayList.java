@@ -8,7 +8,8 @@ public class UseArrayList {
 		 * Use For Each loop and while loop with Iterator to retrieve data.
 		 * 
 		 */
-
+		for(int i=0; i<5; i++)
+		System.out.println("Asif");
 	}
 
 }
